@@ -18,6 +18,7 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r}
 print("Hello world")
 ```
+##This is markdown file
 
 ## Including Plots
 
